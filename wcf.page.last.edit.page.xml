@@ -1,0 +1,2 @@
+<p>Diese Seite wurde zuletzt am <strong>{$page->lastUpdateTime|date}</strong> um <strong>{$page->lastUpdateTime|date:'H:i'} Uhr</strong> bearbeitet.</p>
+<p style="font-size: 11px;">(Änderungen an den Boxen werden nicht unter Seitenveränderung gezählt.)</p>
